@@ -23,7 +23,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]](https://github.com/Gwidzy/wheres-the-thyme/issues)
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]](https://github.com/Gwidzy/wheres-the-thyme/blob/master/LICENSE.txt)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/90d4b89e-91cc-4ebf-97ee-753963f10c54/deploy-status)](https://app.netlify.com/projects/wheresthethyme/deploys)
 
